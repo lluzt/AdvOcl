@@ -34,7 +34,7 @@ We convert the original data [VITON](https://github.com/xthan/VITON) into differ
 Train a FSDM on CIFAR100
 
 ```bash
-sh script/run.sh gpu_num
+sh script/eval.sh gpu_num
 ```
 
 
