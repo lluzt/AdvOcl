@@ -1,10 +1,9 @@
-# AdvOcl: Naturalistic Clothing Pattern Adversarial to Person
-Detectors in Occlusion
+# AdvOcl: Naturalistic Clothing Pattern Adversarial to Person Detectors in Occlusion
 
 
-*AdvOcl leverages the learned image manifold of
+* AdvOcl leverages the learned image manifold of
 the diffusion model to generate patterns that resemble one kind of
-the typical textures of daily clothes, such as common floral styles and improved the adaptability capacity and adversarial effectiveness by supporting changes in posture and partially
+the typical textures of daily clothes, such as common floral styles and improves the adaptability capacity and adversarial effectiveness by supporting changes in posture and partially
 occlusion during walking or running with warping and alignment
 module modeling deformation of clothes.
 ## Set the env
